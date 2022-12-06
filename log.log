@@ -1,0 +1,29 @@
+commit 6872e83d20a39c4a692507e2e22b1469bd8c93fb
+Author: kishanthankiuxai <kishanlearns@gmail.com>
+Date:   Mon Dec 5 14:31:09 2022 -0600
+
+    Merging of Dataframe and Visualisation done by Kishan
+
+commit bcd942be04c2167e8f659ecfe05575df92216c5e
+Author: aslaliya4229-sept <aslaliya4229@saskpolytech.ca>
+Date:   Mon Dec 5 01:04:29 2022 -0600
+
+    Stock dataframe created from alpha vantage by Darshil Aslaliya
+
+commit 7ef20e196d5ef5fa3eda3d6f997c8a035a7bc807
+Author: aslaliya4229-sept <aslaliya4229@saskpolytech.ca>
+Date:   Sun Dec 4 17:25:58 2022 -0600
+
+    Stock data loaded into dataframe by Darshil Aslaliya
+
+commit 18402e532ccabf8102c201d6df7fb7e7e55a34f2
+Author: aslaliya4229-sept <aslaliya4229@saskpolytech.ca>
+Date:   Sat Dec 3 17:36:40 2022 -0600
+
+    Covid-19 Dataframe analysed and merged by Darshil Aslaliya
+
+commit c6d3d67d8811fc8005087d46589ed9a151be085d
+Author: Darshilkumar Aslaliya <118228794+aslaliya4229-sept@users.noreply.github.com>
+Date:   Sat Dec 3 16:46:50 2022 -0600
+
+    Initial commit
